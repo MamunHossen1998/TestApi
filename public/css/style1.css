@@ -1,0 +1,18 @@
+.pull-right{
+  position: absolute;
+  right: 10px;
+  top:5px;
+}
+.load{
+  position: fixed;
+  left: 50%;
+  text-align: center;
+  top: 20px;
+  z-index: 9999;
+  display: none;
+
+}
+/* .load img{
+   text-align: center;
+    margin: auto;
+} */
